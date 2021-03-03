@@ -1,0 +1,4 @@
+rootProject.name = 'mt4j-input'
+include 'org'
+include 'mt4j'
+
